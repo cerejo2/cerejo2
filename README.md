@@ -16,6 +16,10 @@
   <a href="mailto:cerejo@ua.pt"><img src="https://img.shields.io/badge/cerejo%40ua.pt-email-5d5952?style=for-the-badge" alt="Email: cerejo@ua.pt"></a>
 </p>
 
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, um git log com o meu percurso e a medição de um qubit, 73 vezes programador em 100">
+</p>
+
 ## Sobre mim
 
 - Estou no 2.º ano de Engenharia Informática na Universidade de Aveiro (DETI).
