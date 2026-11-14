@@ -45,6 +45,7 @@ A aprender este semestre:
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [**CV interativo**](https://github.com/cerejo2/cv) | Um qubit que se pode medir e um circuito de competências. [Ver a página](https://cerejo2.github.io/cv/) | HTML · CSS · JavaScript |
+| [**Analisador de Xadrez**](https://github.com/cerejo2/Analisador-Xadrez) | Lê um tabuleiro de xadrez a partir do ecrã, segue as jogadas e analisa-as com o Stockfish. Visão feita à mão em NumPy. | Python · NumPy · pywebview |
 | [**Loop**](https://github.com/cerejo2/MAS-Project) | Loja online de eletrónica recondicionada, em equipa de 4. Fiz o serviço de persistência. | TypeScript · React · Vite |
 | **vp** | Monitor de integridade de ficheiros, com 48 testes automáticos. Trabalho de par. | Bash · Linux · Git |
 | **Oficina** | Base de dados de uma oficina automóvel, em 13 tabelas. A decorrer. | SQL Server · T-SQL |
